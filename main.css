@@ -1,0 +1,14 @@
+form {
+    width: 50%;
+}
+
+.input-linha-inferior{
+    border: none;
+    border-bottom: 2px solid #bebdbd;
+    border-radius: 0;
+    box-shadow: none; 
+}
+
+.carousel-inner {
+    height: 100vh;
+}
